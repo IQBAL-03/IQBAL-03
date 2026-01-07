@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 👋 I'm Muhammad Iqbal Widodo<br><br>A SMK student who’s learning Web Development and diving deeper into the Back-End world.<br>I enjoy understanding how things work behind the scenes and turning logic into real applications.<br><br>💻 Currently learning:<br>Java • JavaScript • PHP • HTML • CSS<br>Laravel • React • Node.js<br><br>🌱 Still learning, still building, still improving.
+Hey there 👋 I'm Muhammad Iqbal Widodo<br><br>A SMK student who’s learning Web Development and diving deeper into the Back-End world.<br>I enjoy understanding how things work behind the scenes and turning logic into real applications.<br><br>💻 Currently learning:<br>Java • JavaScript • PHP • HTML • CSS<br>Laravel • React • Node.js • Bootstrap<br><br>🌱 Still learning, still building, still improving.
 
 
 ## 🌐 Socials:
