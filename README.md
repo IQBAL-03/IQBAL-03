@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
 
 Hi guys, I'm **Muhammad Iqbal Widodo** (17 y.o) 
-- 🔭 I’m currently working on something cool.<!-- - 🌱 I’m currently learning ?? -->
+
 - 💬 Ask me about anything.
 - 📫 How to reach me: [muhamadiqbal9871@gmail.com](mailto:muhamadiqbal9871@gmail.com).
 - 😄 Pronouns: He/Him.
