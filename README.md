@@ -11,9 +11,7 @@ Hi guys, I'm **Muhammad Iqbal Widodo** (17 y.o)
 ## 🧑‍💻Languages
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/php/php-original.svg" width="32" />
- <p>|</p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
- <p>|</p>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" width="32" />
 </div>
 
