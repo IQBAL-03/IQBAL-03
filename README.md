@@ -100,8 +100,7 @@ $iqbal = new Iqbal();
 - 🎮 **Advanced GDScript** — Complex enemy AI patterns, state machines, and behavior trees
 - 🌐 **Full-Stack Development** — Integrating backend systems dengan frontend modern
 - 🤖 **Cybersecurity Basics** — Secure coding practices dan network security fundamentals
-- 📊 **Advanced Database Design** — Optimization, indexing, dan query performance
-- 🔐 **API Development** — RESTful APIs dan integrations dengan game engines
+- 📊 **Database Design** — Optimization, indexing, dan query performance
 
 ---
 
@@ -127,7 +126,7 @@ $iqbal = new Iqbal();
 ### 📫 How to reach me:
 📧 **Email**: [muhamadiqbal9871@gmail.com](mailto:muhamadiqbal9871@gmail.com)  
 🔗 **GitHub**: [@IQBAL-03](https://github.com/IQBAL-03)  
-📍 **Location**: Purwokerto, Central Java, Indonesia
+📍 **Location**: Purbalingga, Central Java, Indonesia
 
 </div>
 
