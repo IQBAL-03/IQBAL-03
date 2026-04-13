@@ -82,14 +82,14 @@ $iqbal = new Iqbal();
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZTzTopia&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&bg_color=E0F7FF&title_color=0277BD&icon_color=81D4FA"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact&theme=vue-dark&hide_border=true&bg_color=E0F7FF&title_color=0277BD"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IQBAL-03&show_icons=true&theme=vue-dark&count_private=true&hide_border=true&bg_color=E0F7FF&title_color=0277BD&icon_color=81D4FA"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IQBAL-03&layout=compact&theme=vue-dark&hide_border=true&bg_color=E0F7FF&title_color=0277BD"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZTzTopia&theme=vue-dark&hide_border=true&background=E0F7FF&dates=0277BD&currStreakNum=81D4FA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IQBAL-03&theme=vue-dark&hide_border=true&background=E0F7FF&dates=0277BD&currStreakNum=81D4FA)](https://git.io/streak-stats)
 
 </div>
 
