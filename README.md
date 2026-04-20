@@ -18,14 +18,17 @@
 
 ### :man_technologist: About Me :
 
-I'm a student of Software Enginering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Purbalingga.
+Hi there! I'm Muhammad Iqbal Widodo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A Software Engineering student from Purbalingga.
 
-- :telescope: I specialize in building Frontend and Backend applications.
+- :telescope: Currently focusing on Fullstack Web Development (Frontend & Backend).
+- :video_game: Also a Junior 2D Game Developer using **Godot (GDScript)**.
+- :seedling: Constantly learning and building cool projects.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,mysql,git" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,mysql,git,godot" width={100}/><br>
 
 ---
 
