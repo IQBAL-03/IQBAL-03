@@ -10,6 +10,7 @@
 </h1>
 </div>
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="400" height="400"/>
 </div>
@@ -28,7 +29,7 @@ A Software Engineering student from Purbalingga.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,mysql,git,godot" width={100}/><br>
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,tailwind,mysql,git,godot" width={100}/><br>
 
 ---
 
