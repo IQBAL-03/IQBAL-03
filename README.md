@@ -10,13 +10,13 @@
 </h1>
 </div>
 
-
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="400" height="400"/>
 </div>
 
 ---
-
+-->
 ### :man_technologist: About Me :
 
 Hi there! I'm Muhammad Iqbal Widodo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
